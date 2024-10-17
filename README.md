@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaira-ogardo
 - 👀 I want to become a Network Administrator in the near future
 - 🌱 I’m currently learning and I want to improve my Python and SQL skills
-- - 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/zaira-ogardo/
+- 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/zaira-ogardo/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cats!
 
